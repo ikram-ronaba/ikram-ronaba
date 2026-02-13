@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ikram Ronaba!
+## Hey 👋, I'm Ikram!
 
 I am a Front-End Developer in progress, building strong and disciplined foundations in web development.  
 I believe in consistent practice, structured learning, and improving step by step. 🚀  
