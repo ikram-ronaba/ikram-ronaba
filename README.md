@@ -31,7 +31,7 @@ I focus on understanding concepts deeply and applying them through practical pro
 
 ### 📊 GitHub Stats
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikram-ronaba&show_icons=true&theme=default)
 
 ---
 
