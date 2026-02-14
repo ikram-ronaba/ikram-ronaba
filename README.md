@@ -31,11 +31,6 @@ I focus on understanding concepts deeply and applying them through practical pro
 
 
 
-### 📊 GitHub Stats
-
-![Ikram's GitHub stats](https://readme-stats-github.pages.dev/api?ikram-ronaba=ikram-ronaba&show_icons=true)
-
-
 
 ### 🛠️ Featured Projects
 
