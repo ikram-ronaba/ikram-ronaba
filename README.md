@@ -7,7 +7,7 @@ I believe in consistent practice, structured learning, and improving step by ste
 
 I focus on understanding concepts deeply and applying them through practical projects.
 
----
+
 
 ### 🧐 About Me
 
@@ -17,7 +17,7 @@ I focus on understanding concepts deeply and applying them through practical pro
 - 📚 Committed to daily improvement and continuous learning  
 - 👩🏻‍💻 All my projects are available here on GitHub  
 
----
+
 
 ### 🔨 Languages & Tools
 
@@ -29,13 +29,13 @@ I focus on understanding concepts deeply and applying them through practical pro
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikram-ronaba&show_icons=true&theme=default)
+![Ikram's GitHub stats](https://readme-stats-github.pages.dev/api?ikram-ronaba=ikram-ronaba&show_icons=true)
 
----
+
 
 ### 🛠️ Featured Projects
 
