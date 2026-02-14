@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ikram!
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZyZWl1Mmtnc3ozZTByYTVoMHVhM3AwdnhvYTk0NGd5ZHBmc25iZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 I am a Front-End Developer in progress, building strong and disciplined foundations in web development.  
 I believe in consistent practice, structured learning, and improving step by step. 🚀  
